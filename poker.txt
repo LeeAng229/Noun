@@ -1,0 +1,50 @@
+咱们天朝人民爱玩扑克牌，爱打麻将是出了名的。但是中国人的打牌，和美国人的Play Cards，说的并不是同一种牌。中国人的扑克一般是指争上游，而美国人的Poker是指豪斯(House)。Full House是指3+2的模式：比如3个7跟一对2。上海话里的“furu”就是Full House的音译。不同国家的不同花色流传最广的是法国人的设计，黑桃Spade(铲子)；红桃Heart(爱心)；方块Diamond(钻石)；梅花Club(权杖)。
+
+�������һ��һ
+
+现代扑克一副(1 deck)54张，其中大王小王两张是美国人发明的舶来品。欧洲人最初设计扑克牌的时候只有52张，代表全年52个星期。大王(Red Joker)表示日，小王(Black Joker)代表月。
+
+花色Suit，本来意思是“外套，西装”，把“花色”说成卡牌穿的外套，这个讲法还满可爱的。报牌的时候，英语习惯先说数值后说花色，恰与中文相反。例如：红桃7要说成Seven of Heart
+
+shuffle洗牌，cut切牌，deal发牌，sort理牌，draw摸牌，play打出，discard弃牌，shuffle：本意是指调换顺序，这里调换牌的顺序，也就是“洗牌”。
+
+cut切牌——-作弊的时候常用一招“假切牌”，看起来好像切了，实际上没有改过牌的位置。这在英语中称为“False Cut”，和假牙的“假”用的是同一个False。discard：弃牌。Dis-这个前缀表示否定，dis-card，否掉一张牌，就是丢弃不要的意思。Trick，一圈，出一轮牌叫一个trick
+
+Rank点数———-rank本来是级别，这里是说点数，又称Face Value或points。扑克牌的大小顺序级别除了A和2略有争议之外，基本都是按点数高低来的。其中，点数1-5称为wheelcard，点数3-10称为spotter，点数1-10称为whiteskin，点数大于10的JQK，中文里说成“人头牌”，英语中叫做Face Card, Royal(皇室) Card或者Court(宫廷) Card。
+
+价值300元外教英语课程领取：http://www.acadsoc.com.cn/lps/lp4.htm?search=700053 (北美原版教材）
+
+Position位置———–最早发牌的叫Eldest
+Hand，最后发牌的叫Youngest Hand。最早出牌的上家/先手叫Early Hand，最后出牌的下家/后手叫Late Hand。另外还有两个惯用语表达，一个叫Under the gun，枪手/攻击手位置，就是指第一个出牌的人，也可以说是三国杀里的第一顺位。另一个叫Blind，指最后出牌、往往没有轮到自己就挂的人。三国杀八
+人游戏中，第七顺位叫Big Blind(最后一个出牌)，第六顺位叫Small Blind(倒数第二个出牌)。
+
+Deck一副(牌)———–A
+deck of cards是标准的一副牌的说法。在扑克牌规则里，deck也可以翻译成“牌堆”。如三国杀online的规则中有这么一句话“从牌堆顶部摸两张牌”，翻
+成英语就是“draw two cards from the top of the deck”。Btw，剩余牌的牌堆叫做deck，如果是弃牌堆，则俗称为deadwood(死去的树林…)
+
+hand手牌——–hand就是手牌的意思，有的地方也说pocket card(口袋里的牌)，但用得没有第一个广。a good hand就是指“一手好牌”。show one’s hand亮出手牌，也就是“摊牌”的意思。引申为“表明自己的真正意图”。
+
+Deal发牌———Deal sb.
+Out原来是指发牌的时候跳过某人，引申为“排挤在外”的意思。另外，很多人在谈判最后打成共识，要喊“成交”的时候也是叫“Deal”。这里的Deal同样是从发牌的意思过来的。牌局开始之前玩家要讨论规则和赌注，一切商定之后就“deal”，发牌了…
+
+Draw摸牌———Touch这个“摸”更多是强调“接触一下”，而摸牌的这个“摸”具有粘滞性，是“摸进”的意思，英语中说成“Draw”。大
+家应该都记得，“抽屉”的英文是drawer，其中draw就是“抽，拉”的意思。“摸进”牌和“拉”抽屉一样，都是把物体向自己的方向牵动。
+
+Sort：整理，理牌。Play：打出。Play…card就是“打出…牌”。比如，play
+a strategy card，打出一张锦囊牌。这个词组还可以引申为“使用…招数”的意思。小孩子吵架的时候，最看不起的就是有人“Play the parent card”，打不过别人回去搬家长出来当救兵…
+
+full house，flush同花，straight顺子，flush的意思是“同花”，或者说是麻将里的“清一色”。扑克牌中五张花色相同、大小没有规律的牌的组合就是Flush，Flush的大小看
+其中最大的一张牌。比如Ace-high Flush就是Ace最大的同花组合。
+
+straight最基本的解释是“连续的”。比如straight
+wins就是“连胜”。扑克牌中大小连续的牌，就是顺子。把两个词连起来，得到同花顺，就是straigh flush…
+
+full house前文已经提到过，指3个跟一对的牌型。一行三，就是threes full“炸弹”怎么说。很可惜，英语中只是把炸弹称为“四张一样的牌”，Four of a kind. 4炸弹，就是Four of fours…，也有地方叫成quads。扑克牌中大小一样叫of the same rank,花色一样叫of the same suit,都一样叫做…same炸弹有时可以单挂一张废牌，这个废牌叫做kicker，或者side card。
+
+和八十分里面都要在四个花色里面指定一个花色为Trump(王)，比其他花色都大。如果这一圈出草花，一名玩家草花牌已经绝掉(Void)，就可以用一张王牌进行阻截。特别强调，王trump和王牌(Ace)是不一样的。Ace就是指A，只有一张，一支队伍的王牌一般也只有一个。Trump这个王是指一个花色，有13张之多。
+
+摸牌阶段，玩家可以bid(叫牌)决定这一轮王的花色。如果玩家手上方块牌多，就可以扔出一张方块2，bid方块为王。对手可以用两张别的花色的2，比如一对草花2，来overbid(造反)，改定草花为王。做庄的人叫做trumpmaker，底牌叫做kitty。
+
+Joker怪（鬼），这个词本身是“小丑”的意思。扑克牌中是最大的鬼牌。扑克牌本身是欧洲人的作品，只有这两张牌是美国人的贡献。大怪叫Red Joker，小怪叫Black Joker。有些游戏中规定鬼牌是“百搭”，可以当作任意牌打出，这在英语中称为“wild card”。
+
+hit/miss摸到想摸的牌，凑成自己想做的牌，比如一副炸弹，叫hit。如果摸到一张废牌，就是miss。house rules，扑克牌的规则在各个地方都有差别，玩家常常会在玩牌前先确定规则。某一个俱乐部或某一组牌友打牌时的特定规则称为house rulescheating作弊。作弊高手叫cardshark，=中文的老千。
